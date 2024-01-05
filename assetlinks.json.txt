@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.pioneerproperties.travelnursehousing",
+    "sha256_cert_fingerprints":
+    ["0B:1D:12:1D:EA:B2:85:18:70:BA:CB:F6:CD:3B:B1:AC:82:EB:CA:2A:90:2B:BC:8D:29:AF:9F:D5:E2:C4:06:9D"]
+  }
+}]
